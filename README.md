@@ -85,7 +85,7 @@
 ## 🌍 Langues
 
 🇫🇷 **Français** — Langue maternelle  
-🇬🇧 **Anglais** — B1 (TOEIC : 460/990)
+🇬🇧 **Anglais** — B1 
 
 ---
 
