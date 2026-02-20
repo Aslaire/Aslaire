@@ -53,24 +53,6 @@
 
 ---
 
-## 📂 Projets académiques
-
-| Projet | Technologies | Description |
-|--------|-------------|-------------|
-| 🌐 **Modélisation réseau** | Cisco Packet Tracer, Wireshark | Configuration VLANs, DNS, DHCP, NAT, VPN |
-| 🌡️ **Surveillance chambre froide (IoT)** | C, Tiva C, HTML/CSS/JS, PHP/MySQL | Système embarqué avec interface web sécurisée |
-| 🐾 **Site de parrainage animalier** | PHP, MySQL, HTML/CSS/JS | Site complet avec BDD relationnelle et gestion des accès |
-
----
-
-## 💼 Expérience
-
-**🏢 Stagiaire IT - V AND B** *(09/2025 - 01/2026)*
-- Déploiement de **Grafana sous Docker** pour la supervision réseau
-- Intégration **Zabbix**, **Cisco Meraki**, **Veeam Backup**
-- Refonte du portail **Jira Service Management** et automatisation des workflows **Zapier**, **Okta**
-
----
 
 ## 📊 Mes stats GitHub
 
@@ -86,18 +68,6 @@
 
 ---
 
-## 🌍 Langues
-
-🇫🇷 **Français** - Langue maternelle  
-🇬🇧 **Anglais** - B1 
-
----
-
-## ⚡ Centres d'intérêt
-
-⚽ Football &nbsp;|&nbsp; 🎌 Animés
-
----
 
 <div align="center">
   
