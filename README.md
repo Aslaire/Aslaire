@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Aslaire Amour MAYILA !
+# 👋 Salut, moi c'est Aslaire MAYILA !
 
 <div align="center">
   
@@ -11,9 +11,9 @@
 ## 🧑‍💻 À propos de moi
 
 - 🎓 Étudiant en **2ème année d'ingénieur numérique** à l'**ISEP Paris** — spécialisation **Cybersécurité**
-- 🛡️ Passionné par la **sécurité réseau**, la **supervision IT** et les **systèmes embarqués**
+- 🛡️ Passionné par la **sécurité réseau**, la **blockchain** et la **Big Data et base de donnée**
 - 💼 Ex-stagiaire IT chez **V AND B** — Grafana, Docker, Zabbix, Cisco Meraki, Jira
-- 📍 Basé à **Ris-Orangis, France**
+- 📍 Basé à **Ile de France, France**
 - 📫 Contact : **aslairemayila@gmail.com**
 
 ---
@@ -64,7 +64,7 @@
 **🏢 Stagiaire IT — V AND B** *(09/2025 – 01/2026)*
 - Déploiement de **Grafana sous Docker** pour la supervision réseau
 - Intégration **Zabbix**, **Cisco Meraki**, **Veeam Backup**
-- Refonte du portail **Jira Service Management** et automatisation des workflows
+- Refonte du portail **Jira Service Management** et automatisation des workflows **Zapier**, **Okta**
 
 ---
 
