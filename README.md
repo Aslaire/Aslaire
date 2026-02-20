@@ -10,9 +10,9 @@
 
 ## 🧑‍💻 À propos de moi
 
-- 🎓 Étudiant en **2ème année d'ingénieur numérique** à l'**ISEP Paris** — spécialisation **Cybersécurité**
+- 🎓 Étudiant en **2ème année d'ingénieur numérique** à l'**ISEP Paris** - spécialisation **Cybersécurité**
 - 🛡️ Passionné par la **sécurité réseau**, la **blockchain** et la **Big Data et base de donnée**
-- 💼 Ex-stagiaire IT chez **V AND B** — Grafana, Docker, Zabbix, Cisco Meraki, Jira
+- 💼 Ex-stagiaire IT chez **V AND B** - Grafana, Docker, Zabbix, Cisco Meraki, Jira
 - 📍 Basé à **Ile de France, France**
 - 📫 Contact : **aslairemayila@gmail.com**
 
@@ -61,7 +61,7 @@
 
 ## 💼 Expérience
 
-**🏢 Stagiaire IT — V AND B** *(09/2025 – 01/2026)*
+**🏢 Stagiaire IT - V AND B** *(09/2025 - 01/2026)*
 - Déploiement de **Grafana sous Docker** pour la supervision réseau
 - Intégration **Zabbix**, **Cisco Meraki**, **Veeam Backup**
 - Refonte du portail **Jira Service Management** et automatisation des workflows **Zapier**, **Okta**
@@ -84,8 +84,8 @@
 
 ## 🌍 Langues
 
-🇫🇷 **Français** — Langue maternelle  
-🇬🇧 **Anglais** — B1 
+🇫🇷 **Français** - Langue maternelle  
+🇬🇧 **Anglais** - B1 
 
 ---
 
