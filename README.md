@@ -13,7 +13,7 @@
 - 🎓 Étudiant en **2ème année d'ingénieur numérique** à l'**ISEP Paris** - spécialisation **Cybersécurité**
 - 🛡️ Passionné par la **sécurité réseau**, la **blockchain** et la **Big Data et base de donnée**
 - 💼 Ex-stagiaire IT chez **V AND B** - Grafana, Docker, Zabbix, Cisco Meraki, Jira
-- 📍 Basé à **Ile de France, France**
+- 📍 Basé en **Ile de France, France**
 - 📫 Contact : **aslairemayila@gmail.com**
 
 ---
@@ -41,6 +41,8 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
 
 ### Réseaux & Cybersécurité
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
