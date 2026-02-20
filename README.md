@@ -44,6 +44,8 @@
 
 ### Réseaux & Cybersécurité
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
 
 `VLAN` • `NAT` • `DNS` • `VPN` • `DHCP` • `Routage` • `Pare-feux` • `Packet Tracer`
 
